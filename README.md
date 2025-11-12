@@ -1,44 +1,40 @@
-# Hi, I'm MAbdo 👋
-
-I am a **third-year Computer Science & English Studies student** from Morocco, passionate about coding, problem-solving, and building projects that make an impact.  
-
----
-
-## 💻 What I Do
-- Develop web applications using **React** and **Spring Boot**
-- Work on **1337 school projects** to sharpen algorithmic and system programming skills
-- Build personal projects like **MindScript**, focusing on clean code and usability
-- Continuously learning new technologies and improving my software engineering skills
+<h1 align="center">Hi 👋, I'm MAbdo</h1>
+<h3 align="center">Third-year Computer Science & English Studies Student | 1337 Projects Enthusiast | React & Spring Boot Developer</h3>
 
 ---
 
-## 🔧 Skills
-- **Programming Languages:** C, Java, JavaScript, SQL
-- **Frontend:** React, Tailwind CSS
-- **Backend:** Node.js, Spring Boot
-- **Tools:** Git, GitHub, MySQL, VS Code
+### 🔭 About Me
+- 👨‍💻 I build **web apps** with React & Spring Boot  
+- 🧩 I solve **algorithmic challenges** through 1337 projects  
+- 🌱 Always learning new **full-stack development** skills  
+- ⚡ Fun fact: I love turning ideas into **clean, efficient code**
 
 ---
 
-## 📂 Projects
-- **[MindScript](https://github.com/YourUsername/MindScript):** Personal finance tracker
-- **[Libft](https://github.com/YourUsername/libft):** 1337 project, custom C library
-- **[Get_Next_Line](https://github.com/YourUsername/get_next_line):** 1337 project, line-reading function
-- And more 1337 projects…
+### 🛠️ Tech Stack
+| Frontend | Backend | Languages | Tools |
+|---|---|---|---|
+| React, Tailwind CSS | Node.js, Express, Spring Boot | C, Java, JavaScript, SQL | Git, GitHub, VS Code, MySQL |
 
 ---
 
-## 🌱 I’m Learning
-- Advanced **React** patterns and libraries
-- Spring Boot and backend architecture
-- Full-stack project deployment
+### 🌟 Projects
+| Project | Description | Link |
+|---|---|---|
+| MindScript | Personal finance tracker with charts & analytics | [GitHub](https://github.com/YourUsername/MindScript) |
+| Libft | 1337 custom C library | [GitHub](https://github.com/YourUsername/libft) |
+| Get_Next_Line | 1337 project, line-reading function | [GitHub](https://github.com/YourUsername/get_next_line) |
 
 ---
 
-## 📫 Contact Me
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
-- GitHub: [Your GitHub](https://github.com/YourUsername)
+### 📈 Stats
+![MAbdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
+---
+
+### 📫 Contact Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MAbdo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-your.email@example.com-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
 
 ---
 

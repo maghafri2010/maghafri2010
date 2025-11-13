@@ -44,6 +44,7 @@ Currently working on **MindScript** and 1337 projects while exploring **React, N
 | ft_printf | 1337 project, custom printf implementation | [GitHub](https://github.com/maghafri2010/ft_printf) |
 
 ---
+![amaghafr's 42 stats](https://badge.mediaplus.ma/darkblue/amaghafr)
 
 ### 📈 GitHub Stats
 ![MAbdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=maghafri2010&show_icons=true&theme=radical)
